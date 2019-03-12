@@ -1,16 +1,22 @@
-# Python Boilerplate
+# C++ Boilerplate
 About 
 -------
-This project folder is a boilerplate for python projects. 
+This project folder is a boilerplate for c++ projects. 
 It is free to use (MIT Licence)
 
-The main python file is just the main function
+The main cpp file in src is just the main function with cstdio lib
 
-    def main():
+    using namespace std;
+    int main()
+    {
+    
+        return 0;
+    }
 
-        return 0
-
-    if __name__ = "__main__":
-        main()
+## Project files
+* includes - placeholder txt file
+* libs - placeholder txt file, replace with libraries
+* src - source code
+* test - place to stage tests
 
 Nothing more, nothing less
