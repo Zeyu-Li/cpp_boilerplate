@@ -2,8 +2,9 @@
 #include <cstdio>
 using namespace std;
 
-int main()
-{
-    cout << 's';
+int main() {
+
+    const int x;
     return 0;
+
 }
