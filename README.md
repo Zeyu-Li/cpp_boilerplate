@@ -1,8 +1,8 @@
 
 # C++ Boilerplate
 
-About 
------
+## About
+
 This project folder is a boilerplate for c++ projects. 
 It is free to use (MIT Licence)
 
@@ -25,3 +25,14 @@ Also included is a main.h file
 * test - place to stage tests
 
 Nothing more, nothing less
+
+## Licence
+
+The rules for copy and distributing this project licence are
+outlined in the licence.txt file.
+
+This project is under an MIT licence
+
+## Other Notes
+
+.exe files are not kept
