@@ -6,9 +6,10 @@
 This project folder is a boilerplate for c++ projects. 
 It is free to use (MIT Licence)
 
-The main cpp file in src is just the main function with cstdio lib
+The main cpp file in src is just the main function
 
 ```c++
+#include <cstdio>
 using namespace std;
 int main()
 {
