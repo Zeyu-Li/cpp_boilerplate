@@ -8,12 +8,14 @@ It is free to use (MIT Licence)
 
 The main cpp file in src is just the main function with cstdio lib
 
-    using namespace std;
-    int main()
-    {
-    
-        return 0;
-    }
+```c++
+using namespace std;
+int main()
+{
+
+    return 0;
+}
+```
 
 Also included is a main.h file
 
@@ -35,4 +37,4 @@ This project is under an MIT licence
 
 ## Other Notes
 
-.exe files are not kept
+.exe files are not kept so you will have to build from source (src)
